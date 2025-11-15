@@ -1,4 +1,4 @@
-# Liquidity AI Agent Project
+# AI Agent Project
 
 This project combines:
 - AI-driven financial agents
